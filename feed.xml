@@ -10,31 +10,6 @@
     <id>https://metalpou.github.io/testsite</id>
 
     <entry>
-        <title>Gotham Medium Bold </title>
-        <author>
-            <name>Actualités du Hub Connum</name>
-        </author>
-        <link href="https://metalpou.github.io/testsite/blabla/"/>
-        <id>https://metalpou.github.io/testsite/blabla/</id>
-        <media:content url="https://metalpou.github.io/testsite/media/posts/21/test600200.jpg" medium="image" />
-
-        <updated>2024-10-11T10:41:18+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://metalpou.github.io/testsite/media/posts/21/test600200.jpg" alt="" />
-                    Gotham Book medium GOTHAM BOOK MEDIUM
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://metalpou.github.io/testsite/media/posts/21/test600200.jpg" class="type:primaryImage" alt="" /></p>
-                <p>Gotham Book medium GOTHAM BOOK MEDIUM</p>
-<p> </p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Formation Aciah à venir</title>
         <author>
             <name>Actualités du Hub Connum</name>
@@ -1930,6 +1905,174 @@
 <div class="elementor-element elementor-element-7c0a642 elementor-widget elementor-widget-button" data-id="7c0a642" data-element_type="widget" data-widget_type="button.default">
 <div class="elementor-widget-container">
 <div class="elementor-button-wrapper"><a class="elementor-button elementor-button-link elementor-size-sm" href="https://conumm.fr/micro-observatoire-des-metiers-de-la-mediation-numerique/"> <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">Plus d'infos - site hub CONUMM &gt;</span> </span> </a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Webinaire : les fakes news et les jeunes</title>
+        <author>
+            <name>Actualités du Hub Connum</name>
+        </author>
+        <link href="https://metalpou.github.io/testsite/webinaire-les-fakes-news-et-les-jeunes/"/>
+        <id>https://metalpou.github.io/testsite/webinaire-les-fakes-news-et-les-jeunes/</id>
+        <media:content url="https://metalpou.github.io/testsite/media/posts/33/Copie-de-Les-fake-news-et-leducation-aux-medias-chez-les-jeunes-1-e1586268631972-onpyz6jskjwxfhnmtiwhdzw09wc0kq61i9i9mtc808.png" medium="image" />
+            <category term="Ressources"/>
+            <category term="Médiation numérique"/>
+            <category term="Dans les territoires"/>
+
+        <updated>2020-04-07T17:12:00+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://metalpou.github.io/testsite/media/posts/33/Copie-de-Les-fake-news-et-leducation-aux-medias-chez-les-jeunes-1-e1586268631972-onpyz6jskjwxfhnmtiwhdzw09wc0kq61i9i9mtc808.png" alt="Une personne assise sur un canapé ouvre un journal. En surimpression, le titre &quot;fake news et les jeunes&quot;" />
+                    Retrouvez l’intégralité de ce webinaire à destination des animateurs jeunesse et médiateurs numérique organisé par le Centre Social du Chemillois&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://metalpou.github.io/testsite/media/posts/33/Copie-de-Les-fake-news-et-leducation-aux-medias-chez-les-jeunes-1-e1586268631972-onpyz6jskjwxfhnmtiwhdzw09wc0kq61i9i9mtc808.png" class="type:primaryImage" alt="Une personne assise sur un canapé ouvre un journal. En surimpression, le titre &quot;fake news et les jeunes&quot;" /></p>
+                <div class="elementor-element elementor-element-1008fdbb elementor-widget elementor-widget-theme-post-content" data-id="1008fdbb" data-element_type="widget" data-widget_type="theme-post-content.default">
+<div class="elementor-widget-container">
+<div class="elementor elementor-870" data-elementor-type="wp-post" data-elementor-id="870" data-elementor-post-type="post">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-5a63b2f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5a63b2f" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-928114e" data-id="928114e" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-156e3aa elementor-widget elementor-widget-heading" data-id="156e3aa" data-element_type="widget" data-widget_type="heading.default">
+<div>Retrouvez l’intégralité de ce webinaire à destination des animateurs jeunesse et médiateurs numérique organisé par le Centre Social du Chemillois en lien avec le hub CONUMM en suivant le lien ci-dessous</div>
+<div class="elementor-widget-container"> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-cf31c13 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cf31c13" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-61b5fbe" data-id="61b5fbe" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-5c96d58 elementor-align-center elementor-widget elementor-widget-button" data-id="5c96d58" data-element_type="widget" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper"><a class="elementor-button elementor-button-link elementor-size-sm" href="https://data.conumm.fr/index.php/s/f9qfFeK6M5BWCjG"> <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">Accéder au webinaire</span> </span> </a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-f017657 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f017657" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7537806" data-id="7537806" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-752d60b elementor-widget elementor-widget-heading" data-id="752d60b" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">Les objectifs de ce webinaire</h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-4c50955 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4c50955" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-2873b7b" data-id="2873b7b" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-2fb4d2f elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="2fb4d2f" data-element_type="widget" data-widget_type="icon-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-icon-box-wrapper">
+<h4 class="elementor-icon-box-icon"><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.42383em; letter-spacing: var(--letter-spacing);">Comprendre</span></h4>
+<div class="elementor-icon-box-content">Les origines des fake news<br>Leur importance aujourd'hui</div>
+<div> </div>
+<div class="elementor-icon-box-content"><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.26562em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);">Développer</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-43d9178" data-id="43d9178" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-b6b1aac elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="b6b1aac" data-element_type="widget" data-widget_type="icon-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-icon-box-wrapper">
+<div class="elementor-icon-box-content">
+<p class="elementor-icon-box-description">L'esprit critique des jeunes<br>sur internet<br><br></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-b7bc5a2" data-id="b7bc5a2" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-1e0fe7e elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="1e0fe7e" data-element_type="widget" data-widget_type="icon-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-icon-box-wrapper">
+<div class="elementor-icon-box-icon"><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.26562em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);">Connaitre</span></div>
+<div class="elementor-icon-box-content">
+<p class="elementor-icon-box-description">Des outils de vérification de l'information</p>
+<p class="elementor-icon-box-description"><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.26562em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);">Savoir</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3e3ad9a" data-id="3e3ad9a" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-a0e40a6 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="a0e40a6" data-element_type="widget" data-widget_type="icon-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-icon-box-wrapper">
+<div class="elementor-icon-box-content">
+<p class="elementor-icon-box-description">Argumenter et échanger<br>avec les jeunes<br><br></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-71f5ded elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="71f5ded" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-568df43" data-id="568df43" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-4ac9486 elementor-widget elementor-widget-text-editor" data-id="4ac9486" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Internet permet un accès à la culture et au savoir comme aucune bibliothèque ne l’a jamais fait.<br>Pour autant, le public est-il mieux informé qu’à l’époque des grands médias « traditionnels » (presse, télévision) ? Comment décrypter l’information aujourd’hui et faire le tri entre propagande, contenu sponsorisé, satire ou théorie du complot ? Quel regard porter sur le web social pour devenir un citoyen averti et conscient des enjeux d’Internet ?<br>Une éducation aux médias et à l’information apparaît nécessaire pour aider à comprendre le monde actuel et construire un esprit critique.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-704f8b5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="704f8b5" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-29cdbb9" data-id="29cdbb9" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-51d83d0 elementor-widget elementor-widget-heading" data-id="51d83d0" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">Ce webinaire aura lieu le mercredi 15 avril 2020 de 14h30 à 15h30</h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-e0b024b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e0b024b" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-592cda3" data-id="592cda3" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-d814d28 elementor-widget elementor-widget-text-editor" data-id="d814d28" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Pour participer à cette présentation suivi par un temps d’échange, il est nécessaire de disposer d’un ordinateur ou d’un smartphone et d’une connexion internet. De même, merci de vous connecter 5 minutes avant l’heure pour tester le lien qui vous sera transmis et vérifier notamment le son de votre matériel.</p>
+<p><strong>Si vous souhaitez participer</strong> à ce webinaire merci de renvoyer un mail à l’intervenant, Bruno Méraut, formateur numérique au Centre social du Chemillois à bruno.meraut[@]centresocial-chemille.asso.fr</p>
 </div>
 </div>
 </div>
