@@ -3,7 +3,7 @@
     <title>CONUMM_T1_Taste2</title>
     <link href="https://metalpou.github.io/testsite/feed.xml" rel="self" />
     <link href="https://metalpou.github.io/testsite" />
-    <updated>2024-11-03T20:41:35+01:00</updated>
+    <updated>2024-11-03T21:12:20+01:00</updated>
     <author>
         <name>Actualités du Hub Connum</name>
     </author>
@@ -634,24 +634,1030 @@
         </author>
         <link href="https://metalpou.github.io/testsite/analyse-des-reponses-au-questionnaire-sur-le-metier-de-mediateur-numerique-du-hub-conumm/"/>
         <id>https://metalpou.github.io/testsite/analyse-des-reponses-au-questionnaire-sur-le-metier-de-mediateur-numerique-du-hub-conumm/</id>
+        <media:content url="https://metalpou.github.io/testsite/media/posts/36/picto-bleu-chimie.png" medium="image" />
 
         <updated>2022-07-21T17:40:00+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://metalpou.github.io/testsite/media/posts/36/picto-bleu-chimie.png" alt="flacon de chimie tenu par une main sur fond du logo Conumm" />
                     Qu’est ce que le métier de médiateur numérique, comment va-t-il évoluer ? Quels sont les compétences, savoirs et savoirs-faire, publics,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://metalpou.github.io/testsite/media/posts/36/picto-bleu-chimie.png" class="type:primaryImage" alt="flacon de chimie tenu par une main sur fond du logo Conumm" /></p>
                 <p>Qu’est ce que le métier de médiateur numérique, comment va-t-il évoluer ?</p>
 <p>Quels sont les compétences, savoirs et savoirs-faire, publics, lieux et outils mobilisés ?</p>
 <p>Quelles places pour le libre, les espaces ressources et la production de communs ?</p>
-<p>Voici une synthèse, à jour au 05 mars 2021des réponses apportées au questionnaire du Hub CONUMM.</p>
+<p>Voici une synthèse, à jour au 05 mars 2021 des réponses apportées au questionnaire du Hub CONUMM.</p>
 <h2 id="Participation" data-id="Participation">Participation</h2>
-<p>À préciser : date de transmission du questionnaire, quels moyens ?<br>95 réponses, 64 réponses complètes et 31 questionnaires partiellement complétés. L’absence de réponse pourra être consignée sur les graphiques par la présence de la mention <code>na</code></p>
+<p>À préciser : date de transmission du questionnaire, quels moyens ?<br>95 réponses, 64 réponses complètes et 31 questionnaires partiellement complétés.</p>
+<p> </p>
+<p>L’absence de réponse pourra être consignée sur les graphiques par la présence de la mention <code>na</code></p>
 <h3 id="Département-de-réponse" data-id="Département-de-réponse">Département de réponse</h3>
 <p><img loading="lazy" src="https://i.imgur.com/bp2S4oK.png" alt="" data-is-external-image="true"></p>
 <p>64 personnes ont renseigné leur département d’exercice, parmi celles-ci 54 sont situées en région Pays de la Loire.</p>
+<h2 id="Profils-des-structures" data-id="Profils-des-structures">Profils des structures</h2>
+<h3 id="Type-de-structure" data-id="Type-de-structure">Type de structure</h3>
+<p><img loading="lazy" src="https://i.imgur.com/7VtGa1f.png" alt="" data-is-external-image="true"></p>
+<p>La majeure partie des structures sont des associations et des collectivités territoriales.</p>
+<p>On peut toutefois noter la présence de 3 auto-entrepreneurs, très actifs sur les réseaux sociaux dans les échanges concernant la médiation numérique <a href="https://twitter.com/MeTaL_PoU" target="_blank" rel="noopener">@JulieBrillet</a>, <a href="https://twitter.com/loicgervais" target="_blank" rel="noopener">@LoicGervais</a>, <a href="https://twitter.com/audric_tkpx" target="_blank" rel="noopener">@GueidanAudric_TKPX</a>. De plus, leurs sites internet respectifs sont également alimentés par des ressources de médiation et de réflexion sur les enjeux métier.</p>
+<p>Une unique société, Argos, à répondu au questionnaire, c’est une SARL doublée d’une structure associative basée au Mans. Malheureusement à l’heure de la la rédaction de ce rapport, leur site internet est en construction et peu d’informations sont disponibles via les autres canaux de communication.</p>
+<details>
+<summary>Table des structures ayant répondu</summary>
+<table>
+<thead>
+<tr>
+<th>Quel est le nom de votre structure?</th>
+<th>Type structure</th>
+<th>Département</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CCAS de Nantes Bretagne</td>
+<td>acteur public</td>
+<td>44</td>
+</tr>
+<tr>
+<td>369 éditions</td>
+<td>association</td>
+<td>93</td>
+</tr>
+<tr>
+<td>AICLA</td>
+<td>association</td>
+<td>49</td>
+</tr>
+<tr>
+<td>Accompagnement administratif &amp; Accès aux Droits - NVPDL</td>
+<td>association</td>
+<td>44</td>
+</tr>
+<tr>
+<td>Association SCOOPE</td>
+<td>association</td>
+<td>49</td>
+</tr>
+<tr>
+<td>Association centre social du chemillois</td>
+<td>association</td>
+<td>49</td>
+</tr>
+<tr>
+<td>Association la Turmelière</td>
+<td>association</td>
+<td>49</td>
+</tr>
+<tr>
+<td>Atelier marie et alphonse</td>
+<td>association</td>
+<td>44</td>
+</tr>
+<tr>
+<td>CNPH-PIVERDIERE</td>
+<td>association</td>
+<td>49</td>
+</tr>
+<tr>
+<td>CSC Allée verte</td>
+<td>association</td>
+<td>44</td>
+</tr>
+<tr>
+<td>CSC Maison pour Tous</td>
+<td>association</td>
+<td>44</td>
+</tr>
+<tr>
+<td>CSC du Douessin</td>
+<td>association</td>
+<td>49</td>
+</tr>
+<tr>
+<td>CYBER ACCOORD MALAKOFF</td>
+<td>association</td>
+<td>44</td>
+</tr>
+<tr>
+<td>Cap Emploi 44 - GIRPEH PDL</td>
+<td>association</td>
+<td>44</td>
+</tr>
+<tr>
+<td>Cap Jeunes (Adelis)</td>
+<td>association</td>
+<td>44</td>
+</tr>
+<tr>
+<td>Centre d’Animation SocialeJean-Claude Laude</td>
+<td>association</td>
+<td>72</td>
+</tr>
+<tr>
+<td>Centre social pays de VItré</td>
+<td>association</td>
+<td>35</td>
+</tr>
+<tr>
+<td>Cybercentre du Centre Social ESPACE Baugeois</td>
+<td>association</td>
+<td>49</td>
+</tr>
+<tr>
+<td>GLEAM</td>
+<td>association</td>
+<td>53</td>
+</tr>
+<tr>
+<td>L’atelier marie et alphonse</td>
+<td>association</td>
+<td>44</td>
+</tr>
+<tr>
+<td>Ligue de l’enseignement Vendée</td>
+<td>association</td>
+<td>85</td>
+</tr>
+<tr>
+<td>Maison des Squares</td>
+<td>association</td>
+<td>35</td>
+</tr>
+<tr>
+<td>Nâga</td>
+<td>association</td>
+<td>44</td>
+</tr>
+<tr>
+<td>Office Socio Educatif</td>
+<td>association</td>
+<td>85</td>
+</tr>
+<tr>
+<td>PiNG</td>
+<td>association</td>
+<td>44</td>
+</tr>
+<tr>
+<td>Projets Solidaires Dans la Cité</td>
+<td>association</td>
+<td>44</td>
+</tr>
+<tr>
+<td>Tactical Tech</td>
+<td>association</td>
+<td>35</td>
+</tr>
+<tr>
+<td>accoord Maison de quartier de l’île de Nantes</td>
+<td>association</td>
+<td>44</td>
+</tr>
+<tr>
+<td>association d’informatique et derobotique rezéenne</td>
+<td>association</td>
+<td>44</td>
+</tr>
+<tr>
+<td>centre socioculturel la petite gare</td>
+<td>association</td>
+<td>85</td>
+</tr>
+<tr>
+<td>espace multimedua leo lagrange</td>
+<td>association</td>
+<td>44</td>
+</tr>
+<tr>
+<td>familles rurales vendée</td>
+<td>association</td>
+<td>85</td>
+</tr>
+<tr>
+<td>la Labomedia</td>
+<td>association</td>
+<td>45</td>
+</tr>
+<tr>
+<td>le coup de main numerique</td>
+<td>association</td>
+<td>44</td>
+</tr>
+<tr>
+<td>mediagraph</td>
+<td>association</td>
+<td>44</td>
+</tr>
+<tr>
+<td>snalis</td>
+<td>association</td>
+<td>44</td>
+</tr>
+<tr>
+<td>nan</td>
+<td>association</td>
+<td>49</td>
+</tr>
+<tr>
+<td>Julie BRILLET</td>
+<td>auto entrepreneur</td>
+<td>44</td>
+</tr>
+<tr>
+<td>Loic Gervais Médiateur Numérique</td>
+<td>auto entrepreneur</td>
+<td>59</td>
+</tr>
+<tr>
+<td>TKPX</td>
+<td>auto entrepreneur</td>
+<td>85</td>
+</tr>
+<tr>
+<td>14bis Centre Information Jeunesse</td>
+<td>collectivité territoriale</td>
+<td>85</td>
+</tr>
+<tr>
+<td>Atelier numérique des Beaux-arts Nantes Saint-Nazaire</td>
+<td>collectivité territoriale</td>
+<td>44</td>
+</tr>
+<tr>
+<td>Bibliothèque François Mitterrand</td>
+<td>collectivité territoriale</td>
+<td>21</td>
+</tr>
+<tr>
+<td>Bibliothèque Les Champs Libres</td>
+<td>collectivité territoriale</td>
+<td>35</td>
+</tr>
+<tr>
+<td>Bibliothèque départementale de vendée</td>
+<td>collectivité territoriale</td>
+<td>85</td>
+</tr>
+<tr>
+<td>Bibliothèque municipale de Nantes</td>
+<td>collectivité territoriale</td>
+<td>44</td>
+</tr>
+<tr>
+<td>CCEG</td>
+<td>collectivité territoriale</td>
+<td>44</td>
+</tr>
+<tr>
+<td>CIAS communauté de communes des vallées du haut anjou</td>
+<td>collectivité territoriale</td>
+<td>49</td>
+</tr>
+<tr>
+<td>Carré des services publics</td>
+<td>collectivité territoriale</td>
+<td>44</td>
+</tr>
+<tr>
+<td>Centre Intercommunal des Vallées du Haut Anjou</td>
+<td>collectivité territoriale</td>
+<td>49</td>
+</tr>
+<tr>
+<td>Centre Social du Pays Glazik</td>
+<td>collectivité territoriale</td>
+<td>29</td>
+</tr>
+<tr>
+<td>CyberCentres de la 4CPS</td>
+<td>collectivité territoriale</td>
+<td>72</td>
+</tr>
+<tr>
+<td>Cybercentre de Guérande</td>
+<td>collectivité territoriale</td>
+<td>44</td>
+</tr>
+<tr>
+<td>EPN MAINE SAOSNOIS (antenne de marolles)</td>
+<td>collectivité territoriale</td>
+<td>72</td>
+</tr>
+<tr>
+<td>EPN de Mamers</td>
+<td>collectivité territoriale</td>
+<td>72</td>
+</tr>
+<tr>
+<td>Espace Multimédi@ du Pays d’Ancenis</td>
+<td>collectivité territoriale</td>
+<td>44</td>
+</tr>
+<tr>
+<td>Espace Multimédia</td>
+<td>collectivité territoriale</td>
+<td>72</td>
+</tr>
+<tr>
+<td>Médiathèque de Pornic</td>
+<td>collectivité territoriale</td>
+<td>44</td>
+</tr>
+<tr>
+<td>Médiathèque départementale du Puy-de-Dôme</td>
+<td>collectivité territoriale</td>
+<td>63</td>
+</tr>
+<tr>
+<td>Médiathèque ludothèque René Goscinny</td>
+<td>collectivité territoriale</td>
+<td>44</td>
+</tr>
+<tr>
+<td>PDTPS</td>
+<td>collectivité territoriale</td>
+<td>44</td>
+</tr>
+<tr>
+<td>Cybercentre de Bouguenais</td>
+<td>collectivité territoriale</td>
+<td>44</td>
+</tr>
+<tr>
+<td>ARGOS</td>
+<td>entreprise</td>
+<td>72</td>
+</tr>
+</tbody>
+</table>
+</details>
+<h3 id="Considérez-vous-votre-structure-comme-un-tiers-lieu" data-id="Considérez-vous-votre-structure-comme-un-tiers-lieu">Considérez-vous votre structure comme un tiers-lieu?</h3>
+<p><img loading="lazy" src="https://i.imgur.com/v2vFJyj.png" alt="" data-is-external-image="true"></p>
+<p>38% des structures se considèrent comme des tiers-lieu. De part la définition relativement floue, voire fourre-tout, il pourrait être intéressant de scinder l’ensemble de cette questionnaire en deux sous-classes relative aux tiers-lieux.</p>
+<h3 id="Proposez-vous-des-initiations-etou-des-formations-au-numérique-" data-id="Proposez-vous-des-initiations-etou-des-formations-au-numérique-">Proposez-vous des initiations et/ou des formations au numérique ?</h3>
+<p><img loading="lazy" src="https://i.imgur.com/NFmAMT0.png" alt="" data-is-external-image="true"></p>
+<p>4 structures ne proposent pas d’activité. On compte parmi celles-ci une Maison d’édition <a href="https://www.369editions.com/petit-ouvrage-dautonomie-technologique/" target="_blank" rel="noopener">369 edition</a> dont la médiation n’est pas uniquement passe par des ouvrages ‘classiques et augmentés par la technologie’, deux centres sociaux éducatifs et un AAD-NVPDL (Accompagnement Administratif &amp; Accès aux Droits) qui font de l’aide administrative.</p>
+<h2 id="Publics-accompagnés" data-id="Publics-accompagnés">Publics accompagnés</h2>
+<h3 id="Age" data-id="Age">Age</h3>
+<p><img loading="lazy" src="https://i.imgur.com/QADiN0W.png" alt="" data-is-external-image="true"></p>
+<p>Les seniors représentent le public prioritaire des structures enquêtées, viennent ensuite la tranche 30 à 60 qui représentent le plus gros effectif de notre découpage démographique et regoupent des profils socio-démographique très divers.</p>
+<p>Les jeunes et enfants présentent des distributions similaires et semblent être moins la cible d’actions spécifiques de médiation.</p>
+<p>mieux expliquer les publics 1,2…</p>
+<h3 id="Catégories-socioprofessionnelles" data-id="Catégories-socioprofessionnelles">Catégories socioprofessionnelles</h3>
+<p><img loading="lazy" src="https://i.imgur.com/GMfM9iD.png" alt="" data-is-external-image="true"></p>
+<p><img loading="lazy" src="https://i.imgur.com/56F4e5W.png" alt="" data-is-external-image="true"></p>
+<p>Cette question visait à caractériser les profils socio-professionnel des personnes accompagnées.</p>
+<p>Conformément à l’analyse précédente basée sur les classes d’âge, les retraités sont les personnes prioritairement accompagnés. Bien que n’étant pas forcément prioritaire, les personnes sans activité représentent la plus grande catégorie de public accompagnés.</p>
+<p>On peut également noter une présence significative d’activité à destination des étudiants. Cette observation peut notamment s’expliquer par la réponse de structure de formation académiques.</p>
+<details>
+<summary>Table des structures touchant préférentiellement un public étudiant</summary>
+<table>
+<thead>
+<tr>
+<th>Quel est le nom de votre structure?</th>
+<th>Quelle est l’adresse de votre principal support de communication en ligne (site, blog, réseau social) ?</th>
+<th>Employés</th>
+<th>Ouvriers</th>
+<th>Artisans, commerçants</th>
+<th>Cadres</th>
+<th>Agriculteurs</th>
+<th>Retraités</th>
+<th>Sans activité</th>
+<th>Professions intermédiaires</th>
+<th>Etudiants</th>
+<th>Enfants</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>369 éditions</td>
+<td><a href="https://www.369editions.com/" target="_blank" rel="noopener">https://www.369editions.com/</a></td>
+<td> </td>
+<td> </td>
+<td>Public n°3</td>
+<td>Public n°2</td>
+<td> </td>
+<td> </td>
+<td>Public n°4</td>
+<td> </td>
+<td>Public n°1</td>
+<td> </td>
+</tr>
+<tr>
+<td>L’atelier marie et alphonse</td>
+<td><a href="http://marie-et-alphonse.com" target="_blank" rel="noopener">marie-et-alphonse.com</a></td>
+<td>Public n°2</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Public n°3</td>
+<td> </td>
+<td> </td>
+<td>Public n°1</td>
+<td> </td>
+</tr>
+<tr>
+<td>Atelier numérique des Beaux-arts</td>
+<td><a href="https://beauxartsnantes.fr/" target="_blank" rel="noopener">https://beauxartsnantes.fr/</a></td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Public n°3</td>
+<td>Public n°4</td>
+<td> </td>
+<td>Public n°1</td>
+<td>Public n°2</td>
+</tr>
+<tr>
+<td>Office Socio Educatif</td>
+<td><a href="http://www.ose-nalliers.fr/" target="_blank" rel="noopener">http://www.ose-nalliers.fr/</a></td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Public n°1</td>
+<td>Public n°2</td>
+</tr>
+<tr>
+<td>14bis Centre Information Jeunesse</td>
+<td>Facebook et Instagram @le14bis, <a href="https://www.larochesuryon.fr/jeunes/" target="_blank" rel="noopener">https://www.larochesuryon.fr/jeunes/</a></td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Public n°2</td>
+<td> </td>
+<td>Public n°1</td>
+<td> </td>
+</tr>
+<tr>
+<td>CNPH-PIVERDIERE</td>
+<td>groupe facebook CDR CNPH-Piverdière</td>
+<td>Public n°2</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Public n°3</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Public n°1</td>
+<td> </td>
+</tr>
+</tbody>
+</table>
+</details>
+<h2 id="Situations-de-médiation" data-id="Situations-de-médiation">Situations de médiation</h2>
+<h3 id="Individuel--Collectif" data-id="Individuel--Collectif">Individuel / Collectif</h3>
+<p><img loading="lazy" src="https://i.imgur.com/pM4CSgv.png" alt="" data-is-external-image="true"></p>
+<p>Les deux-tiers (65%) des sessions de médiations concernent des groupes. Un groupe commençant à deux personnes et pouvant remplir un amphi, il aurait été intéressant d’avoir de distinguer différentes classes d’effectifs distinguant les petits groupes, des classes scolaires ou des sessions beaucoup plus grandes.</p>
+<h3 id="Part-de-la-médiation-dans-l’activité-professionnelle" data-id="Part-de-la-médiation-dans-l’activité-professionnelle">Part de la médiation dans l’activité professionnelle</h3>
+<p><img loading="lazy" src="https://i.imgur.com/dp4DPgw.png" alt="" data-is-external-image="true"></p>
+<p>Seulement 1/3 des répondants exercent la médiation umérique à plein temps. Une question ouverte attenant aux activités complémentaires remonte une grande variété d’activités. Elle se concentrent sur la gestion de ressources, de lieu, animation, prise en charge de publics spécifiques et des profils plus techniques.</p>
+<details>
+<summary>Détails des autres activités renseignées par les répondants</summary>
+<blockquote>
+<p>formation professionnelle <small> #1</small></p>
+</blockquote>
+<blockquote>
+<p>AGENT DE DEVLOPPEMENT <small> #6</small></p>
+</blockquote>
+<blockquote>
+<p>Acgtivités socioculturelle <small> #10</small></p>
+</blockquote>
+<blockquote>
+<p>préparation d’ateliers, veille, projets transversaux avec les collègues, maintenance informatique… <small> #13</small></p>
+</blockquote>
+<blockquote>
+<p>bibliothécaire - médiateur numérique au sein d’une communauté de communes <small> #14</small></p>
+</blockquote>
+<blockquote>
+<p>Chargée des ressources numériques, multimédia et audiovisuelles de la bibliothèque <small> #15</small></p>
+</blockquote>
+<blockquote>
+<p>Développement de l’activité du service numérique de la fédération, participation au consortium du hub CONUMM <small> #16</small></p>
+</blockquote>
+<blockquote>
+<p>gestion de projet <small> #18</small></p>
+</blockquote>
+<blockquote>
+<p>biohacking, enseignement, investigation / infosec, animation de tilios <small> #19</small></p>
+</blockquote>
+<blockquote>
+<p>organisation d’événements autour des cultures numériques, R&amp;D, résidence <small> #20</small></p>
+</blockquote>
+<blockquote>
+<p>la gestion de l’espace <small> #21</small></p>
+</blockquote>
+<blockquote>
+<p>prévention, formateur, bibliothécaire <small> #22</small></p>
+</blockquote>
+<blockquote>
+<p>édition, programmation artistique, enseignement et recherche <small> #23</small></p>
+</blockquote>
+<blockquote>
+<p>Prêt d’outils numériques, lien avec les bibliothécaires du département, vie de la structure <small> #24</small></p>
+</blockquote>
+<blockquote>
+<p>Graphiste, monteuse <small> #25</small></p>
+</blockquote>
+<blockquote>
+<p>ALSH, espace jeunesse, ludotheque <small> #27</small></p>
+</blockquote>
+<blockquote>
+<p>Education à l’environnement / éducation sport <small> #28</small></p>
+</blockquote>
+<blockquote>
+<p>conseil administration <small> #30</small></p>
+</blockquote>
+<blockquote>
+<p>Prévention de la perte d’autonomie - Prévention santé - France Services - Habitat adapté Gens du voyage <small> #32</small></p>
+</blockquote>
+<blockquote>
+<p>Coordination, veille numérique, préparation d’atelier <small> #33</small></p>
+</blockquote>
+<blockquote>
+<p>toutes les autres activités de la bibliothèque : renseignement, prêt et consultation de documents, actions culturelles… <small> #36</small></p>
+</blockquote>
+<blockquote>
+<p>Activités physiques adaptées pour les séniors, accompagnement social gens du voyage, portage de repas à domicile, actis mobilité <small> #37</small></p>
+</blockquote>
+<blockquote>
+<p>chargée d’information, gestion espace documentation, ateliers recherche d’emploi, … <small> #38</small></p>
+</blockquote>
+<blockquote>
+<p>Réparation (atelier de réparation, Fab Lab …) et communication <small> #39</small></p>
+</blockquote>
+<blockquote>
+<p>Technicienne multimédia <small> #40</small></p>
+</blockquote>
+<blockquote>
+<p>Animation enfance jeunesse, animation de la vie locale <small> #41</small></p>
+</blockquote>
+<blockquote>
+<p>coordination <small> #42</small></p>
+</blockquote>
+<blockquote>
+<p>Accès à l’alimentation, réinsertion professionnelle <small> #43</small></p>
+</blockquote>
+<blockquote>
+<p>Référent informatique <small> #45</small></p>
+</blockquote>
+<blockquote>
+<p>informer, orienter, atelier, temps forts <small> #46</small></p>
+</blockquote>
+<blockquote>
+<p>médiation urbaine <small> #78</small></p>
+</blockquote>
+<blockquote>
+<p>Accueil du public en bibliothèque <small> #79</small></p>
+</blockquote>
+<blockquote>
+<p>conseil, maintenance <small> #82</small></p>
+</blockquote>
+<blockquote>
+<p>bibliothèque <small> #84</small></p>
+</blockquote>
+</details>
+<h3 id="Solitaire--En-equipe" data-id="Solitaire--En-equipe">Solitaire / En equipe</h3>
+<p> </p>
+<p><img loading="lazy" src="https://i.imgur.com/U4Gt4VA.png" alt="" data-is-external-image="true"></p>
+<p>70% exercent l’activité de médiation numérique au sein d’une équipe.</p>
+<p>30% portent à eux seuls cette activité, c’est naturellement le cas des 3 autoentreneurs mais également de nombre de personnels de centres sociaux et de bibliothèques.</p>
+<h3 id="Médiation-à-domicile" data-id="Médiation-à-domicile">Médiation à domicile</h3>
+<p><img loading="lazy" src="https://i.imgur.com/EAo5U6L.png" alt="" data-is-external-image="true"></p>
+<p>8 structures proposent une médiation au domicile. Ce sont toutes des associations. Nous pensions y trouver les autoentrepreneurs, par définition plus mobiles, mais la prise en charge des temps et coût de déplacement est certainement un frein à l’activité sous ce régime particulier.</p>
+<h3 id="Médiation-en-distanciel" data-id="Médiation-en-distanciel">Médiation en distanciel</h3>
+<p><img loading="lazy" src="https://i.imgur.com/iO5v60S.png" alt="" data-is-external-image="true"></p>
+<p>Plus de la moitié des répondants ont déjà effectué des actions de médiation en distanciel. Force est de constater que la crise sanitaire de l’année 2020 a favorisé ce mode de médiation. Il serait intéressant de creuser plus spécifiquement ce sujet aussi bien sur les outils utilisés, les modes d’animation employé et d’obtenir un retour qualitatif sur ces actions menées à distance.</p>
+<h3 id="Nombre-de-séances" data-id="Nombre-de-séances">Nombre de séances</h3>
+<p><img loading="lazy" src="https://i.imgur.com/q5iFsMg.png" alt="" data-is-external-image="true"></p>
+<h3 id="Durée-moyenne-des-séances" data-id="Durée-moyenne-des-séances">Durée moyenne des séances</h3>
+<p><img loading="lazy" src="https://i.imgur.com/NbacPNx.png" alt="" data-is-external-image="true"></p>
+<h3 id="Objectif-des-séances" data-id="Objectif-des-séances">Objectif des séances</h3>
+<p><img loading="lazy" src="https://i.imgur.com/3ui7nt7.png" alt="" data-is-external-image="true"></p>
+<p><img loading="lazy" src="https://i.imgur.com/gr0Xtbz.png" alt="" data-is-external-image="true"></p>
+<h3 id="Evaluation" data-id="Evaluation">Evaluation</h3>
+<p><img loading="lazy" src="https://i.imgur.com/3RjFpgt.png" alt="" data-is-external-image="true"></p>
+<h3 id="Posture" data-id="Posture">Posture</h3>
+<p><img loading="lazy" src="https://i.imgur.com/EgtRzuq.png" alt="" data-is-external-image="true"></p>
+<h3 id="Difficultés-rencontrées" data-id="Difficultés-rencontrées">Difficultés rencontrées</h3>
+<p><img loading="lazy" src="https://i.imgur.com/qfWx2Hl.png" alt="" data-is-external-image="true"></p>
+<h3 id="Langue-étrangère" data-id="Langue-étrangère">Langue étrangère</h3>
+<p data-id="Langue-étrangère">Avez-vous déjà réalisé des actions de médiation en langue étrangère ou accompagné d’un interprète (langue des signe comprise)?</p>
+<p><img loading="lazy" src="https://i.imgur.com/PcDp6pX.png" alt="" data-is-external-image="true"></p>
+<h3 id="Publics-en-situation-de-handicap" data-id="Publics-en-situation-de-handicap">Publics en situation de handicap</h3>
+<p><img loading="lazy" src="https://i.imgur.com/Rv6Qhme.png" alt="" data-is-external-image="true"></p>
+<h3 id="Accès-du-public-en-situation-de-handicap" data-id="Accès-du-public-en-situation-de-handicap">Accès du public en situation de handicap</h3>
+<p>Vous arrive-t-il de refuser des personnes en situation en handicap car votre lieu d’exercice n’est pas adapté?</p>
+<p><img loading="lazy" src="https://i.imgur.com/7ttX3gR.png" alt="" data-is-external-image="true"></p>
+<h3 id="Outils-adaptés" data-id="Outils-adaptés">Outils adaptés</h3>
+<p>Disposez-vous d’outils spécifiquement adaptés à certains publics en situation de handicap?</p>
+<p><img loading="lazy" src="https://i.imgur.com/zMICcb7.png" alt="" data-is-external-image="true"></p>
+<p>un logiciel de synthèse vocale <a href="https://www.ceciaa.com/jaws-logiciel-revue-ecran.html" target="_blank" rel="noopener">Jaws</a>, un clavier Braille, un scanner, une imprimante, un vidéo agrandisseur <small> #36</small></p>
+<p>Tout type de handicap sauf aveugle (dans ce cas, on conseille <a href="https://aciah-formations-informatiques-pour-tous.fr/" target="_blank" rel="noopener">ACIAH</a>) <small> #44</small></p>
+<p>Outils pour Malvoyants - malentendants <small> #45</small></p>
+<p>Salle dédiée avec outils d’agrandisseur, de synthèse vocale … Mais c’est un autre service qui le gère <small> #79</small></p>
+<p>pictogrammes <small> #85</small></p>
+<p>Tutoriel en <code>Facile à lire et à comprendre</code> (FALC) <small> #94</small></p>
+<h3 id="Postures-du-médiateur" data-id="Postures-du-médiateur">Postures du médiateur</h3>
+<p><img loading="lazy" src="https://i.imgur.com/aCMZ73G.png" alt="" data-is-external-image="true"></p>
+<h3 id="Qualités-du-médiateur" data-id="Qualités-du-médiateur">Qualités du médiateur</h3>
+<p><img loading="lazy" src="https://i.imgur.com/60lIA78.png" alt="" data-is-external-image="true"></p>
+<h3 id="Préparation-de-séances" data-id="Préparation-de-séances">Préparation de séances</h3>
+<p><img loading="lazy" src="https://i.imgur.com/UuUXpry.png" alt="" data-is-external-image="true"></p>
+<h3 id="Maintenir-attention-et-motivation" data-id="Maintenir-attention-et-motivation">Maintenir attention et motivation</h3>
+<p><img loading="lazy" src="https://i.imgur.com/wQz8fDt.png" alt="" data-is-external-image="true"></p>
+<h2 id="Profils-amp-Formation-des-médiateurs" data-id="Profils-amp-Formation-des-médiateurs">Profils &amp; Formation des médiateurs</h2>
+<h3 id="Sexe" data-id="Sexe">Sexe</h3>
+<p><img loading="lazy" src="https://i.imgur.com/P9MFdJy.png" alt="" data-is-external-image="true"></p>
+<h3 id="Age1" data-id="Age">Age</h3>
+<p><img loading="lazy" src="https://i.imgur.com/qn1JGdF.png" alt="" data-is-external-image="true"></p>
+<h3 id="Durée-d’exercice-en-médiation-numérique" data-id="Durée-d’exercice-en-médiation-numérique">Durée d’exercice en médiation numérique</h3>
+<p><img loading="lazy" src="https://i.imgur.com/8TIwZTr.png" alt="" data-is-external-image="true"></p>
+<h3 id="Statut-professionnel" data-id="Statut-professionnel">Statut professionnel</h3>
+<p><img loading="lazy" src="https://i.imgur.com/Sir4GZy.png" alt="" data-is-external-image="true"></p>
+<h3 id="Formation-initiale" data-id="Formation-initiale">Formation initiale</h3>
+<p><img loading="lazy" src="https://i.imgur.com/g0BPJtg.png" alt="" data-is-external-image="true"></p>
+<h3 id="Brevet-Professionnel" data-id="Brevet-Professionnel">Brevet Professionnel</h3>
+<p><img loading="lazy" src="https://i.imgur.com/aPgaFMe.png" alt="" data-is-external-image="true"></p>
+<h3 id="Certification-ou-diplôme-en-informatique" data-id="Certification-ou-diplôme-en-informatique">Certification ou diplôme en informatique</h3>
+<p><img loading="lazy" src="https://i.imgur.com/bSgHbfP.png" alt="" data-is-external-image="true"></p>
+<h3 id="Pour-quelles-raisons-avez-vous-passé-cette-certification-" data-id="Pour-quelles-raisons-avez-vous-passé-cette-certification-">Pour quelles raisons avez-vous passé cette certification ?</h3>
+<p><img loading="lazy" src="https://i.imgur.com/7IvcSxF.png" alt="" data-is-external-image="true"></p>
+<h3 id="Formation-liée-à-la-médiation-numérique" data-id="Formation-liée-à-la-médiation-numérique">Formation liée à la médiation numérique</h3>
+<p><img loading="lazy" src="https://i.imgur.com/TSSeJtI.png" alt="" data-is-external-image="true"></p>
+<p>Formations mentionnées:</p>
+<ul>
+<li><a href="https://ofpc.fr/formation/catic-conseiller-assistant-en-technologies-de-linformation-et-de-la-communication/" target="_blank" rel="noopener">CATIC</a></li>
+<li><a href="https://www.cnfpt.fr/trouver-formation/detail/5-5ub6-P-1g09gbg-1h49kn0" target="_blank" rel="noopener">Inclusion numérique CNFPT</a></li>
+<li><a href="https://levraidufaux.info/loutil/" target="_blank" rel="noopener">Vrai du Faux UniJ</a></li>
+<li><a href="https://www.sciences.unilim.fr/tic/du-3mi/" target="_blank" rel="noopener">DU 3MI Médiation Multimédias et Monitorat d’Internet</a></li>
+<li><a href="https://formations.univ-rennes2.fr/fr/formations/licence-professionnelle-20/licence-professionnelle-mention-metiers-de-l-animation-sociale-socio-educative-et-socio-culturelle-parcours-usage-socio-educatifs-des-technologies-de-l-information-et-de-la-communication-usetic-JEZVAUC2.html" target="_blank" rel="noopener">Licence USETIC Usage socio-éducatifs des technologies de l’information et de la communication</a></li>
+</ul>
+<details open="open">
+<summary>Détail des réponses</summary>
+<p>Accompagnement démarches administratives en ligne - Participation au réseau PDN <small> #0</small></p>
+<p>Formation CATIC afpa <small> #29</small></p>
+<p>Inclusion numérique - CNFPT <small> #32</small></p>
+<p>CATIC <small> #35</small></p>
+<p>Les journées numériqes avec Ping <small> #40</small></p>
+<p>CATIC - AFPA <small> #45</small></p>
+<p>Vrai du Faux (UNIJ) <small> #46</small></p>
+<p>DU 3MI <small> #64</small></p>
+<p>du3mi <small> #83</small></p>
+<p>Licence Usage socio-éducatifs des technologies de l’information et de la communication <small> #92</small></p>
+<p>DU USETIC, Deust USETIC, Licence Pro USETIC <small> #94</small></p>
+</details>
+<h3 id="Formation-à-la-pédagogie" data-id="Formation-à-la-pédagogie">Formation à la pédagogie</h3>
+<p><img loading="lazy" src="https://i.imgur.com/ZhPIrCk.png" alt="" data-is-external-image="true"></p>
+<h3 id="Développement-des-compétences" data-id="Développement-des-compétences">Développement des compétences</h3>
+<p><img loading="lazy" src="https://i.imgur.com/OttIzFJ.png" alt="" data-is-external-image="true"></p>
+<h3 id="Mode-de-formation-envisagé" data-id="Mode-de-formation-envisagé">Mode de formation envisagé</h3>
+<p><img loading="lazy" src="https://i.imgur.com/q8mXauA.png" alt="" data-is-external-image="true"></p>
+<h2 id="Equipement-et-ressources" data-id="Equipement-et-ressources">Equipement et ressources</h2>
+<h3 id="Equipements-de-votre-structure" data-id="Equipements-de-votre-structure">Equipements de votre structure</h3>
+<p><img loading="lazy" src="https://i.imgur.com/VTcIgCJ.png" alt="" data-is-external-image="true"></p>
+<h3 id="Origine-de-l’équipement" data-id="Origine-de-l’équipement">Origine de l’équipement</h3>
+<p> <img loading="lazy" src="https://i.imgur.com/tUNyk2g.png" alt="" data-is-external-image="true"></p>
+<h3 id="Logiciels-libres" data-id="Logiciels-libres">Logiciels libres</h3>
+<p><img loading="lazy" src="https://i.imgur.com/rGv2TfZ.png" alt="" data-is-external-image="true"></p>
+<h3 id="Sites-ressources" data-id="Sites-ressources">Sites ressources</h3>
+<p><img loading="lazy" src="https://i.imgur.com/oy6Kuc8.png" alt="" data-is-external-image="true"></p>
+<details open="open">
+<summary>Sites Ressources cités</summary>
+<p>instructables <small> #14</small></p>
+<p>Framablog, Thot Cursus, Panoptinet, Usbek&amp;Rica, voyageurs du numérique <small> #29</small></p>
+<p><a href="https://voyageursdunumerique.org/" target="_blank" rel="noopener">https://voyageursdunumerique.org/</a> <small> #35</small></p>
+<p>aidant connect <small> #43</small></p>
+<p><a href="https://www.asso-linux.org/" target="_blank" rel="noopener">https://www.asso-linux.org/</a> <a href="https://www.boiteaoutils.org/" target="_blank" rel="noopener">https://www.boiteaoutils.org/</a> <small> #44</small></p>
+<p>Les voyageurs du numérique <small> #47</small></p>
+<p>Fablabo, les wikis de Labomedia ou du Carrefour Numérique <small> #69</small></p>
+<p>le mien :-) <a href="http://mediateurnumerique.org" target="_blank" rel="noopener">mediateurnumerique.org</a> (refonte à venir cet été, je spoile au passage) <small> #83</small></p>
+<p>Frama <small> #92</small></p>
+<h3 id="Production-de-matériel-pédagogique-amp-documentation" data-id="Production-de-matériel-pédagogique-amp-documentation">Production de matériel pédagogique &amp; documentation</h3>
+<p><img loading="lazy" src="https://i.imgur.com/lYAiuuy.png" alt="" data-is-external-image="true"></p>
+<h2 id="Evolution-et-prospectives" data-id="Evolution-et-prospectives">Evolution et prospectives</h2>
+<h3 id="Evolutions-identifiées-dans-vos-missions-de-médiation-numérique" data-id="Evolutions-identifiées-dans-vos-missions-de-médiation-numérique">Evolutions identifiées dans vos missions de médiation numérique</h3>
+<details open="open">
+<p>J’occupe le poste de médiateur depuis 1 an à CAP Jeunes.<br>Les demandes d’accompagnement pour les démarches administratives (logement, impôts, CAF, pôle emploi, préfecture, …) sont de plus en plus nombreuses chez les 16-25 ans.<br>Les jeunes accueillis sont souvent assez à l’aise avec un smartphone mais très peu avec un PC. <small> #4</small></p>
+<p>La médiation numérique peut être apparentée à toute forme de médiation (culturelle, sportive, préventive, …). Il s’agit d’un travail au quotidien pour pouvoir répondre à des demandes spécifiques.<br>Auparavant, il était facilement envisageable de mettre en place des ateliers collectifs pour aborder les différents usages (navigation internet, sécurité, traitement de texte…) alors que désormais chaque habitant a son niveau de pratique, ses besoins et ses attentes spécifiques. Les ateliers collectifs peuvent se poursuivre mais des modalités d’intervention individuelles ou intermédiaires sont à développer. <small> #32</small></p>
+<p>Très peux d’évolutions depuis 8 ans, juste quelques pratiques nouvelles. Par contre depuis la fusion de ma CdC un peux plus de partenariat extérieur ou intra service.<br>dans mon milieux rural ne numérique commence à décoller depuis les confinements.<br>Les publics accueillis oscillent avec des usagers qui subissent le numérique et vienne a reculons et les nouveaux retraités qui souhaitent se mettre a jours. <small> #35</small></p>
+<p>Désintéressement des ordinateurs fixes au profit des portables et smartphone. <small> #44</small></p>
+<p>Les personnes étant de plus en plus équipées avec des outils nomades (notamment des smartphones), sans avoir forcément d’ordinateur, il faut s’adapter et partir des outils des usager·es.<br>De plus en plus de demandes sur les sujets suivants : démarches administratives, réseaux sociaux, protection des données personnelles. <small> #47</small></p>
+<p>Une demande mieux assumée de la part des publics, une demande très large, spectre allant de la 1ère utilisation d’un ordi à la gestion des cookies. <small> #75</small></p>
+<p>Au début, accès libres, accueil de classes, ateliers de formation, interventions pour professionnels, lectures numériques, actions jeunesse, projet interservice, communication.<br>Puis, évolution du territoire et mission reciblées sur accès libre et ateliers de formations.<br><small> #76</small></p>
+<p>Mon champ d’intervention s’est élargi aux demandeurs d’emploi dans le cadre du dispositif PIC en partenariat avec le Pôle emploi et le PLIE.<br>La récente labellisation Aptic de notre structure qui permet à nos usagers d’utiliser des pass numériques pour participer à des parcours de formation adaptés à leur profil (demandeurs d’emploi, retraités). <small> #77</small></p>
+<p>Plus de temps à consacrer aux médiations individuelles <small> #79</small></p>
+<p>L’une des évolution les plus importante à mes yeux concerne la difficulté pour le médiateur de rester neutre face aux difficultés du public. En effet, la répétition fait partie intégrante de l’accompagnement d’un public qui ne maîtrise pas l’informatique. <small> #80</small></p>
+<p>proposer de l’aide a l’alphabetisation<br><small> #81</small></p>
+<p>stress du public avec l’obligation d’usage des outils<br>complexité grandissante des outils et des demandes bureaucratiques de la société entière<br>complexité des choix des outils<br>extreme difficulté de lutte contre les grosses entreprises GAFAM et par conséquent à leur influence dans les collectivités <small> #82</small></p>
+<p>Quand j’ai débuté le terme médiation numérique n’existait pas<br>Lévolution est donc importante nécéssairement.<br>N’anmoins ce que je constate c’est que la fonction de médiateur numérique n’est toujours pas définie ni normée. <small> #83</small></p>
+<p>des actions et des missions qui visent de plus en plus le tout public et non un public en particulié <small> #85</small></p>
+<p>La contrainte : en 10 ans les personnes sont passé de “je pourrai toujours m’en passer”, au bientôt “tout dématérialisé”.<br>Malgré tout, beaucoup de personnes qui pensaient ne jamais s’intéresser au numérique ont fini par trouver une porte d’entrée pour se familiariser.<br>Ca reste difficile pour beaucoup d’usagers de s’y intéresser et de solliciter en dehors de situations d’urgence administrative.<br><small> #86</small></p>
+<p>Demandes des usagers de + en + personnalisées<br>Changement des outils (pc fixe --, portable-, tablette+, smartphone +++)<br>Connaissances des démarches administratives indispensables <small> #87</small></p>
+<p>Evolution des publics <small> #90</small></p>
+<p>Pas d’évolution par rapport à nos pratiques <small> #91</small></p>
+<p>L’utilisation des tablettes et des smartphones <small> #92</small></p>
+</details>
+<h3 id="Evolution-dans-votre-structure-employeuse-ces-dernières-années" data-id="Evolution-dans-votre-structure-employeuse-ces-dernières-années">Evolution dans votre structure employeuse ces dernières années</h3>
+<details open="open">
+<p>Au sein même des structures employeuses, qui prônent toutes la formation continue, je peux constater qu’une grande partie des professionnels n’est pas à l’aise avec l’outil numérique.<br>La situation actuelle a augmenté le fossé quant aux pratiques numériques, à cause des moyens mobilisés et / ou à disposition <small> #32</small></p>
+<p>Évolution depuis les confinements <small> #35</small></p>
+<p>Baisse drastique des contrats aidés <small> #44</small></p>
+<p>Des demandes institutionnelles autour de l’éducation aux médias et à l’information (mais que pour les jeunes, parce que c’est bien connu, seul·es les jeunes s’informent mal sur Internet) et sur l’accompagnement aux démarches administratives et/ou l’inclusion numérique.<br>De plus en plus de professionnel·les qui se retrouvent à faire de la médiation numérique alors que ce n’est pas leur coeur de métier. <small> #47</small></p>
+<p>Une aide numérique vue comme pertinente et répondant à un vrai besoin des publics. <small> #75</small></p>
+<p>Un net désintérêt et une méconnaissance de la profession et de la situation numérique du territoire.<br>Une stratégie à Double vitesse, d’une part développement des applis et des portails de service aux habitants et dans un second temps aucune action pour les zones blanches et grises du territoire et la médiation numérique. Aucune communication voulue sur les services numériques.<br>En revanche, en 5 ans la MSAP a trouvé sa place et répond à un réel besoin. <small> #76</small></p>
+<p>Le développement des moyens et des actions en faveur de l’inclusion numérique. <small> #77</small></p>
+<p>les personnes venaient avant par curiosité, envie d’apprendre<br>depuis 10 ans, ils se sentent obliger d’apprendre l’informatique<br>depuis 5 ans, ils sont contraints de trouver des structures qui les accompagnent, contraints d’avoir un smartphone<br>l’évolution forte des démarches administratives, des démarches qui demandent plus de temps dans l’organisation de mon travail (caf pole emploi ants demarches simplifiees, ameli banque logement visa carte de sejour… )<br>les personnes qui ne souhaitent pas ou ne peuvent pas apprendre l’informatique, se retrouvent bloquer face à toutes ses démarches et ne trouvent pas d’interlocuteur physique dans l administration souhaitée.<br><small> #81</small></p>
+<p>sa disparition…<br>la perte d’aide de l’Etat et des subventionnements (emplois aidés)<br>le désintérêt grandissant des questions de société des décideurs publiques et de l’écologie en tant que telle<br>la bureaucratisation maximale de la société et l’inadaptation de sa structure et de ses outils à suivre le mouvement<br>et l’impression de passer de l’ignorance au rejet <small> #82</small></p>
+<p>Je n’ai plus d’employeur. Du reste, ce que je constate c’est l’absence d’offres. <small> #83</small></p>
+<p>Peu de portage politique.<br>Face à la dématérialisation croissante, tout le monde considère qu’il n’est pas responsable du désengagement des organismes à recevoir le public. <small> #86</small></p>
+<p>prise de conscience de l’enjeu de cette médiation dans le quotidien des usagers pour les plus éloignés du numérique, adaptabilité à l’évolution des demandes. Accompagnement des acteurs <small> #87</small></p>
+<p>Public de plus en plus connecté mais ne maitrisant pas les outils bureautiques <small> #90</small></p>
+<p>Bénévole. Association sans salarié. Non concerné. <small> #91</small></p>
+</details>
+<h3 id="Grands-axes-d’action-pour-l’avenir" data-id="Grands-axes-d’action-pour-l’avenir">Grands axes d’action pour l’avenir</h3>
+<p>(pratique pro pure : travailler l’animation ascendante), que vous avez identifié ?</p>
+<details open="open">
+<p>accompagnement pour les démarches administratives<br>ateliers découverte et prise en main pour le public exilé <small> #4</small></p>
+<p>Médiation numérique à plusieurs niveaux :</p>
+<ul>
+<li data-startline-back="601" data-endline-back="601">apprentissage avec transmission de savoir et accompagnement à la montée en compétences</li>
+<li data-startline-back="602" data-endline-back="602">ateliers collectifs avec pédagogie active (résolution de problème sous la forme de réflexion collective)</li>
+<li data-startline-back="603" data-endline-back="603">challenge pour favoriser l’émulsion</li>
+<li data-startline-back="604" data-endline-back="605">espaces ressources (matériels, compétences, méthodes…) <small> #32</small></li>
+</ul>
+<p>Les bases du numérique, Eadminsitrations, aidant connect, + partenariats en local ou en réseaux départementaux, voir de pays pour une échelle plus petite. <small> #35</small></p>
+<p>Nécessité d’une approche globale du métier (besoins, matières, environnement, social, politique…) <small> #44</small></p>
+<p>Développer les actions orientées usager·es<br>Développer les connaissances et formations sur les questions d’accessibilité<br>La sobriété numérique en évitant le green-washing <small> #47</small></p>
+<p>Une formation initiale et continue systématisée pour les intervenants, une meilleure reconnaissance de leurs pratiques et contenus. <small> #75</small></p>
+<p>La coordination et la mise en réseau<br>La visibilité de la profession<br><small> #76</small></p>
+<p>Je n’en ai pas puisque je m’oppose théoriquement au principe de pédagogie auprès du public précaire. Selon moi, il ne s’agit pas de leur “apprendre” à utiliser le numérique, je préfère être à leur disposition pour faire à leur place. Le numérique est bien souvent vécu comme une source de stresse supplémentaire pour les personnes vivant dans des conditions précaires. Ce que nous percevons comme allant de soi pour des personnes en situation “confortable” (acheter à manger, se chauffer, payer ses factures, régler un problème du quotidien rapidement…), ne l’est pas du tout pour des personnes en situation de pauvreté. Les obliger à faire du numérique en passant par la “pédagogie” revient tout simplement à leur imposer la maitrise d’un savoir dont ils n’ont pas eu accès jusque là, alors même qu’il devient soudainement obligatoire. Je trouve injuste le fait qu’on leur demande de rattraper un “retard” qu’ils n’ont pourtant jamais choisi d’avoir. Il ne faut en effet pas s’étonner qu’aujourd’hui le numérique soit la dernière préoccupation des plus précaires puisque l’apprentissage et le matériel d’hier ne leur étaient pas donnés. <small> #80</small></p>
+<p>travail avec les ecoles - colleges pour aider les parents à suivre la scolarité de leur enfant en ayant du materiel et la pratique (lyco pronote) <small> #81</small></p>
+<p>instruction et politisation<br>autonomie et savoirs décroissants<br><small> #82</small></p>
+<p>il me semble fondamentale de se saisir des thèmes politiques : 5G, régulation des réseaux sociaux, etc… <small> #83</small></p>
+<p>coordination des acteurs (bénévoles, services civiques,…) <small> #87</small></p>
+<p>Revoir et finaliser toutes nos fiches pédagogiques <small> #91</small></p>
+<p>Matériel</p>
+<ul>
+<li data-startline-back="635" data-endline-back="635">Budget <small> #92</small></li>
+</ul>
+</details>
+<h3 id="Animation-de-la-vie-sociale-locale-un-élément-qui-va-se-développer-" data-id="Animation-de-la-vie-sociale-locale-un-élément-qui-va-se-développer-">Animation de la vie sociale locale, un élément qui va se développer ?</h3>
+<details open="open">
+<p>Je l’espère <small> #4</small></p>
+<p>C’est l’élément essentiel à la réussite de la médiation numérique car elle est transversale aux autres médiations. <small> #32</small></p>
+<p>oui <small> #35</small></p>
+<p>Certainement, je pense, mais comme indiqué plus en amont, avec les aspects négatifs, actuels, à court et à moyen termes associés. <small> #44</small></p>
+<p>Oui ! <small> #47</small></p>
+<p>? <small> #75</small></p>
+<p>j’aimerais bien, je crois beaucoup aux tiers lieux <small> #76</small></p>
+<p>Sûrement <small> #77</small></p>
+<p>Je ne comprends pas la question <small> #80</small></p>
+<p>oui , sinon nous sommes mort ou pire transformé en transhumain, ceux de Matrix … <small> #82</small></p>
+<p>je l’espère <small> #83</small></p>
+<p>Probablement <small> #89</small></p>
+<p>angle déjà développé. Implantation dans QVP. Intervention fêtes des écoles et du quartier et atelier sur temps périscolaire. collaboration avec des animatrices sociales de la ville et avec des CSC. <small> #91</small></p>
+<p>oui en partenariat avec des animateurs plus axé sur les publics eux mêmes (Animateurs familles, adultes, jeunesse…) <small> #92</small></p>
+<p>oui, les gens ont besoin d’accompagnement, d’être rassuré <small> #93</small></p>
+</details>
+<h3 id="Si-vous-le-souhaitez-racontez-votre-parcours-de-médiateur-numérique" data-id="Si-vous-le-souhaitez-racontez-votre-parcours-de-médiateur-numérique">Si vous le souhaitez, racontez votre parcours de médiateur numérique</h3>
+<details open="open">
+<p>Avant d’intégrer la structure CAP Jeunes il y a un an j’ai occupé pendant 15 ans le poste d’animateur informatique sur deux lycées professionnels de la région nantaise.<br>La médiation numérique existe depuis 2017 sur le service CAP Jeunes <small> #4</small></p>
+<p>Je suis animateur généraliste, j’ai eu la chance de travailler avec plusieurs publics.<br>Le support numérique intervient désormais au quotidien dans mes actions mais n’est pas le support spécifique de mes missions.<br>J’interviens sur le lien social et tous les supports sont à ma disposition. <small> #32</small></p>
+<p>J’ai perdu le texte renseigné ici car bug de mon PC ! et pas envi de tout réécrire ! <small> #35</small></p>
+<p>C’est quand j’étais bibliothécaire et que je faisais, comme l’ensemble de l’équipe des permanences à l’EPN que je me suis retrouvée à faire de la médiation numérique. On avait un animateur multimédia dans l’équipe, et le reste des collègues plus ou moins à l’aise et/ou volontaire. En ce qui me concerne, j’ai appris sur le tas et animé des ateliers d’initiation d’abord en binôme avec l’animateur multimédia, puis toute seule.<br>J’ai peu à peu appris en pratiquant, en me documentant, en allant à des journées de rencontre (comme parcours numérique), en me créant des réseaux, en m’investissant bénévolement dans des associations de sensibilisation aux enjeux de protection de la vie privée et je suis maintenant formatrice indépendante et médiatrice numérique indépendante sur ces sujets. <small> #47</small></p>
+<p>Géographe de formation, passant l’animation environnement (cdd, cui,cee) et le développement local (emploi jeune), puis par la médiation culturelle en art contemporain (CAE, puis cdi, puis licenciement), j’ai suivi une formation licence pro chef de projet web, puis animatrice de cyber en 2015.<br>2015-2017: employée par la commune<br>2017 à aujourd’hui: fusion des territoires et évolution des missions <small> #76</small></p>
+<p>…<br>decouverte du monde , de la GPL et du monde associatif , de l’éducation populaire<br>découverte de la politique et du militantisme, de l’écologie de l’Anarchie et du monde en furie<br>militant, militant,bricolage , artiste, bricoleur , artiste , trois fois rien , et puis rien du tout <small> #82</small></p>
+<p>En grande partie rappelé dans cet article : <a href="http://mediateurnumerique.org/je-suis-mediateur-numerique/" target="_blank" rel="noopener">http://mediateurnumerique.org/je-suis-mediateur-numerique/</a> <small> #83</small></p>
+<p>BTS Electroniques<br>Expériences multiples :<br>2000 - 2007 3/4 formateur adultes (câblage / retouches de cartes électroniques, Informatique en APP …) - 1/4 ouvrier en industrie électronique<br>Depuis 2007 Animateur-Responsable cybercentre (Cyberbase-Emploi, depuis 2011 repris par la Communauté de Communes) <small> #86</small></p>
+<p>pas encore assez de recul (à peine plus d’un an en poste et sur une année particulière en plus) pour pouvoir répondre à ces questions <small> #89</small></p>
+<p>Je ne suis pas réellement médiateur numérique, mais animatrice de centre de ressources et formatrice, entre autres en informatique. Au fil des ans et avec le confinement, je me suis spécialisée dans la création d’outils numériques pour proposer des formations en distanciel. j’accompagne donc en présentiel et à distance des groupes en formation et aussi de manière individuelle. <small> #90</small></p>
+<p>Ingénieur en informatique.<br>Constat de l’absence d’activité numérique et scientifique sur la commune<br>Création de l’association en 2015<br>développement de 3 activités :<br>11-15 découverte de métier et techno libre 15 séances de 2h (montage électronique, mindstorm, scratch, MIT AI2, Processing, arduino, UX design, Wordpress+cybersecurité, JS, Gimp, réseau IP, impression 3D)<br>12-16 participation a un tournoi de robotique (first lego league)<br>+16 ans Activités libres auto-gérées (construction d’un R2D2 grandeur nature)<br>Réalisation d’ateliers en prestation avec l’aide des jeunes de l’association pour des structures d’accueil de jeunes<br>Entre 20 et 30 adhérents de 11 à 19 ans. <small> #91</small></p>
+<p>J’ai commencé par des ateliers seniors de 4 apprenants à la mairie de Plescop.<br>Je me suis formée ensuite en licence USETIC afin d’asseoir mon statut.<br>J’ai ensuite été animatrice multimédia en Centre Social à Rennes. Puis en Cyber-base du Louvre Lens avec des publics scolaires et adolescents, IME, ESAT, et enfin au Centre Social du Pays Glazik. <small> #92</small></p>
+</details>
+<h3 id="Etat-d’esprit-sur-l’évolution-de-la-médiation-numérique-sur-les-10-prochaines-années" data-id="Etat-d’esprit-sur-l’évolution-de-la-médiation-numérique-sur-les-10-prochaines-années">Etat d’esprit sur l’évolution de la médiation numérique sur les 10 prochaines années</h3>
+<p><img loading="lazy" src="https://i.imgur.com/Ou2ePmR.png" alt="" data-is-external-image="true"></p>
+<h3 id="Pourquoi-cet-état-d’esprit-" data-id="Pourquoi-cet-état-d’esprit-">Pourquoi cet état d’esprit ?</h3>
+<p>réponses à question ouverte, trier les réponses en fonction de la réponse à la question précédente</p>
+<details open="open">
+<p>Avec l’explosion des démarches numériques et en parallèle la fracture numérique il va de soi que la médiation numérique a de beaux jours devant elle. <small> #4</small></p>
+<p>Si nous n’avons pas confiance en nous-même et nos capacités, mieux vaut changer de voie… <small> #32</small></p>
+<p>J’ai perdu le texte renseigné ici car bug de mon PC ! et pas envi de tout réécrire ! <small> #35</small></p>
+<p>En soi même, le métier va se développer, en ce sens, je suis “optimiste”, mais cela se fait par contrainte des utilisateurs à l’outil numérique (le tout numérique).<br>N’oublions pas que la fabrication de l’outil numérique utilise des ressources qui disparaissent, est basé sur l’esclavagisme d’enfant au Congo, des conditions des travail en Chine qui laissent à désirer et des déchets lourds de conséquences.<br>Le métier va se développer, mais nous allons droit dans le mur avec l’approche actuelle. <small> #44</small></p>
+<p>J’ai l’impression que des choses bougent en ce moment, notamment avec des structures comme les hubs. Mais j’ai un manque de confiance dans des stratégies globales à l’échelle nationale (ou sur des territoires) qui pensent aux outils avant les usages ou qui mettent des rustines sur des problématiques créées par eux-même (exemple : la numérisation forcée des démarches administratives sans prise en compte des exclusions générées ou encore l’absence de mise en oeuvre de vraie politique d’accessibilité des sites institutionnels), le tout avec une vision court-termiste qui repose sur l’emploi de contrats précaires. Je note également la frilosité de certains politiques à pousser à creuser les enjeux politiques du numérique et à rester vraiment sur un niveau qui ne concerne que les outils et non les enjeux derrière (ex : la thématique de la sobriété numérique qui propose de trier ses mails et n’interroge pas les modèles économiques). J’ai l’impression que des réponses peuvent néanmoins émerger des réseaux locaux et que des choses intéressantes peuvent se passer. <small> #47</small></p>
+<p>Le discours officiel et la médiatisation de la médiation numérique lui ont donné une place réelle, à l’avenir plus de moyens, de formations pour les intervenants et la valorisation des ateliers et acteurs publics. Meilleure communication sur un territoire donnée, mise en réseau et parcours simplifiés. <small> #75</small></p>
+<p>Pas de volonté de développer l’approche numérique et la culture numérique. Par la force des choses, l’employeur est ok pour l’accompagnement des démarches administratives, mais pas pour le reste.<br>des ex:<br>pas d’actions pour les zones blanches/grises<br>pas de volonté de travailler sur le cyberharcèlement et avec les jeunes<br>gros frein pour développer des ateliers autres que word et excel<br>j’observe des besoins concernant les séniors notamment, arnaqués de belles sommes faute de connaissance. L’apprentissage sur la sécurité me semble essentielle<br>J’observe une nette augmentation du public marginal depuis quelques années. Difficile d’ être toujours à la hauteur, lorsqu’on est isolé<br><small> #76</small></p>
+<p>Le plan d’investissement de l’Etat pour lutter contre l’exclusion numérique qui inclut la formation et le déploiement de conseillers numériques.<br>Les structures et organismes qui s’impliquent et proposent un accompagnement numérique sont de plus nombreuses, grâce notamment à la mise en place des pass numériques. <small> #77</small></p>
+<p>la perte des “relations humaines” <small> #78</small></p>
+<p>Le tout au numérique en 2022 est une abération qui s’explique par une absence de connaissance de la réalité du terrain. <small> #80</small></p>
+<p>le numérique social permet les rencontres et de créer du lien <small> #81</small></p>
+<p>le formatage des esprits, le ratatinage de l’autonomie et de sa pensé par la société de consommation est trop puissant <small> #82</small></p>
+<p>aucune organisation structurelle du secteur. <small> #83</small></p>
+<p>Ne cesse d’évoluer <small> #85</small></p>
+<p>Envie d’être optimiste. Si la situation actuelle accélère la mutation, je le suis résolument. Si non, plutôt résigné … <small> #86</small></p>
+<p>la création de postes de conseillers numériques et cette proximité vont permettre aux citoyens d’être plus autonomes <small> #90</small></p>
+<p>Je trouve que l’on développe de plus en plus d’initiative s autour du numérique en pensant au publics moins sensibilisés. <small> #92</small></p>
+<p>Le numérique devient un passage obligé, beaucoup de personnes ne savent pas utiliser un ordinateur ou un smartphone <small> #93</small></p>
+</details>
+<h3 id="Quels-sont-les-freins-que-vous-pressenter-" data-id="Quels-sont-les-freins-que-vous-pressenter-">Quels sont les freins que vous pressenter ?</h3>
+<details open="open">
+<p>Une vraie reconnaissance du métier … encore peu connu <small> #4</small></p>
+<p>Evolution exponentielle de la technologie qui va a contrario d’une médiation lente et énergivore <small> #32</small></p>
+<p>Délestement de l’état à des acteurs locaux qui ne sont pas des travailleurs sociaux. <small> #44</small></p>
+<p>la vision sur le long terme <small> #47</small></p>
+<p>? <small> #75</small></p>
+<p>la volonté politique et la visibilité de la profession <small> #76</small></p>
+<p>Budget alloué et la non valorisation des compétences <small> #79</small></p>
+<p>Que les plus précaires vont encore rester sur le carreau tandis qu’on leur impose une énième charge mentale à leur situation. <small> #80</small></p>
+<p>disparition totale des aides des collectivités et meme traque des libristes et autre anarchiste <small> #82</small></p>
+<p>la désorganisation de notre secteur <small> #83</small></p>
+<p>Qui pilote, avec quelle pérénité ? <small> #86</small></p>
+<p>manque de moyens, lieux non appropriés, manque de communication ou mauvaises communication auprès du public <small> #89</small></p>
+<p>Aides des municipalités en baisse <small> #91</small></p>
+<p>La résistance au changement <small> #92</small></p>
+</details>
+<h3 id="Points-de-vigilance" data-id="Points-de-vigilance">Points de vigilance</h3>
+<p><img loading="lazy" src="https://i.imgur.com/aQuwKTT.png" alt="" data-is-external-image="true"></p>
+<p><img loading="lazy" src="https://i.imgur.com/XrXKQTd.png" alt="" data-is-external-image="true"></p>
+<h3 id="Quelle-est-la-thématique-essentielle-qui-devra-être-traitée-par-le-médiateur-numérique-" data-id="Quelle-est-la-thématique-essentielle-qui-devra-être-traitée-par-le-médiateur-numérique-">Quelle est la thématique essentielle qui devra être traitée par le médiateur numérique ?</h3>
+<details>
+<p>sobriété numérique <small> #4</small></p>
+<p>initiation, utilisation, sécurité <small> #32</small></p>
+<p>Eadminstration et démarche générales de la démat. <small> #35</small></p>
+<p>L’impact du numérique (sociale et environnemental) <small> #44</small></p>
+<p>Solidarité et partage de connaissances <small> #47</small></p>
+<p>Respect et protection des données personnelles <small> #75</small></p>
+<p>esprit critique, la culture numérique au sens large, les données personnelles <small> #76</small></p>
+<p>Internet (compréhension et sécurité) <small> #77</small></p>
+<p>L’accompagnement et l’aide <small> #80</small></p>
+<p>reseaux sociaux et l’autonomie des usagers <small> #81</small></p>
+<p>la reconstruction d’Internet <small> #82</small></p>
+<p>la citoyenneté <small> #83</small></p>
+<p>Ecologie <small> #85</small></p>
+<p>la dématérialisation - identité numérique <small> #86</small></p>
+<p>la notion d’identité numérique et sa protection <small> #87</small></p>
+<p>Traitement de l’information (mais maitrise de l’outil aussi) <small> #92</small><br>:::</p>
+<h3 id="Quels-sont-pour-vous-les-évolutions-de-pratiques-que-vous-voyez-ou-souhaiteriez-faire-émerger-dans-vos-pratiques-de-médiation" data-id="Quels-sont-pour-vous-les-évolutions-de-pratiques-que-vous-voyez-ou-souhaiteriez-faire-émerger-dans-vos-pratiques-de-médiation">Quels sont pour vous les évolutions de pratiques que vous voyez ou souhaiteriez faire émerger dans vos pratiques de médiation</h3>
+<details>
+<p>sobriété numérique - libre <small> #4</small></p>
+<p>Google dépendance, le B-A-BA du numérique arrêtons de penser que tout le monde sait utiliser un ordinateur <small> #32</small></p>
+<p>Travailler avec des bénévoles pour aider les 13 millions <small> #35</small></p>
+<p>Plus de logiciels libres et de reflexions globales <small> #44</small></p>
+<p>la relocalisation des services et du partage de connaissances (ex: CHATONS, partenariats locaux…) <small> #47</small></p>
+<p>IA <small> #75</small></p>
+<p>baisse d’équipement de livebox au profit du forfait portable, la perte de la maitrise du traitement de texte pour les jeunes <small> #76</small></p>
+<p>Le recrutement d’employés dédiés à l’aide et l’ouverture d’espaces numériques libres <small> #80</small></p>
+<p>hacking et permaculture, bureaucraking et liberté <small> #82</small></p>
+<p>la voix, le design thinking <small> #83</small></p>
+<p>Pilotage de robot par eeg. IA <small> #91</small></p>
+<p>Je penserais à quelque chose qui favorise l’E-inclusion tout en conservant un lien humain <small> #92</small></p>
+</details></details>
+<h3 id="Quels-sont-les-freins-de-choses-que-vous-pressenter-" data-id="Quels-sont-les-freins-de-choses-que-vous-pressenter-">Quels sont les freins de choses que vous pressenter ?</h3>
+<details>
+<p>Une vraie reconnaissance du métier … encore peu connu <small> #4</small></p>
+<p>Evolution exponentielle de la technologie qui va a contrario d’une médiation lente et énergivore <small> #32</small></p>
+<p>Délestement de l’état à des acteurs locaux qui ne sont pas des travailleurs sociaux. <small> #44</small></p>
+<p>la vision sur le long terme <small> #47</small></p>
+<p>? <small> #75</small></p>
+<p>la volonté politique et la visibilité de la profession <small> #76</small></p>
+<p>Budget alloué et la non valorisation des compétences <small> #79</small></p>
+<p>Que les plus précaires vont encore rester sur le carreau tandis qu’on leur impose une énième charge mentale à leur situation. <small> #80</small></p>
+<p>disparition totale des aides des collectivités et meme traque des libristes et autre anarchiste <small> #82</small></p>
+<p>la désorganisation de notre secteur <small> #83</small></p>
+<p>Qui pilote, avec quelle pérénité ? <small> #86</small></p>
+<p>manque de moyens, lieux non appropriés, manque de communication ou mauvaises communication auprès du public <small> #89</small></p>
+<p>Aides des municipalités en baisse <small> #91</small></p>
+<p>La résistance au changement <small> #92</small></p>
+</details>
+<h3 id="Décrivez-nous-votre-environnement-de-travail-idéal" data-id="Décrivez-nous-votre-environnement-de-travail-idéal">Décrivez-nous votre environnement de travail idéal</h3>
+<details>
+<p>Peut-être le lieu que j’occupe déjà avec quelques m2 supplémentaires.<br>Nous avons 7 postes à disposition sur l’EPN + 2 tablettes + 1 imprimante multifonction + 1 accès wifi + 8 portables pour les ateliers donc bien équipés. <small> #4</small></p>
+<p>Un espace de vie sociale identifié sur un territoire avec de nombreux temps formalisés ou informels d’animation sociale.<br>Des “satellites”, rattachés à cette structure et ce projet d’animation, qui sillonnent le territoire pour apporter les mêmes réponses mais en adaptant la forme spécifiquement au territoire visité et aux publics rencontrés.<br>Des moyens de médiation en tout genre, facilement mis à disposition et une équipe dynamique chargée d’animer ces espaces. <small> #32</small></p>
+<p>J’ai perdu le texte renseigné ici car bug de mon PC ! et pas envi de tout réécrire !</p>
+<p>Un ruche, donc un bâtiment adaptés pour recevoir du public avec un epn assez grand pour ateliers + accès libre + atelier + accompagnement individuel discret [name=#35]</p>
+<p>En plein air, loin des ordinateurs ;) <small> #44</small></p>
+<p>Un environnement de travail qui permette de travailler sur le long terme, en partenariat avec tous les acteurs d’un territoire et qui parte des besoins de la population. <small> #47</small></p>
+<p>Une bonne visibilité sur le plan communicationnel, une réponse adaptée pour le public, des lieux bien identifiés. <small> #75</small></p>
+<p>Un travail en équipe, avec des acteurs qui ne sont plus à convaincre.<br>Un travail ancré dans une dynamique locale (plus que nationale)<br>un travail en réseau avec les professionnels de la médiation numérique<br>un environnement sécurisant et coordonné <small> #76</small></p>
+<p>Un espace avec des salles, un espace de travail commun, des petites niches pour l’individuel et du matériel adapté aux situations <small> #79</small></p>
+<p>Un lieu avec beaucoup d’ordinateurs à disposition, beaucoup d’agents qui peuvent accompagner et une liberté quasi totale sur l’usage du pc (en omettant évidemment les pratiques immorales en public). <small> #80</small></p>
+<p>un centre social pour etre toujours bien entouré<br>avec une maison de quartier pour proposer des activités, des animations pour toute la famille<br>un service mairie aides administratives et point d’acces au droit<br>un espace multimedia permettant l’acces et l’apprentissage à l’outil informatique<br>proposer de la wifi libre <small> #81</small></p>
+<p>un village loin des grandes villes, sans internet à tous les étages et en zone blanche garantie.<br>et sans travail SVP ! <small> #82</small></p>
+<p>sans opinion sur cette question. <small> #83</small></p>
+<p>Capacité à être réactif en présentiel ou distanciel, pour le premier contact qui passe en général par un besoin urgent.<br>Partage en équipe (pro - volontaires - bénévoles), ne jamais se sentir isolé.<br>Possibilité d’accompagner en toute discrétion.<br>Ateliers sous forme de médiations individualisées. <small> #86</small></p>
+<p>Espace numérique au sein d’une structure socioculturelle ou intégré à un réseau d’acteurs sociaux pour un juste accompagnement <small> #87</small></p>
+<p>Un lieu agréable et assez grand et aéré, où les gens apprécieraient de venir, dans un bâtiment central et commun avec d’autres services<br>Du matériel qui fonctionne correctement et une bonne connexion internet<br><small> #89</small></p>
+<p>Un Fablab et une salle informatique avec 12 PC gamer <small> #91</small></p>
+<p>Une salle et du matériel à disposition. Une possibilité d’itinérance avec du matériel mobile. <small> #92</small></p>
+</details>
+<h3 id="Quelles-info-aimeriez-vous-connaitre-de-vos-collègues-des-autres-lieux-numériques-" data-id="Quelles-info-aimeriez-vous-connaitre-de-vos-collègues-des-autres-lieux-numériques-">Quelles info aimeriez-vous connaitre de vos collègues des autres lieux numériques ?</h3>
+<details>
+<p>Ateliers<br>Spécificités<br>Equipements <small> #4</small></p>
+<p>Qui est en capacité de dispenser des formations de médiation numérique ? <small> #32</small></p>
+<p>pleins de choses <small> #35</small></p>
+<p>Horaires / public / activités / contacts / philosophie de l’approche… <small> #44</small></p>
+<p>En plus des choses habituelles, ceux qui partagent leurs supports sous licence CC ? <small> #47</small></p>
+<p>Expériences du médiateur numérique, quels ateliers publics proposés, pour quels publics, suivi… <small> #75</small></p>
+<p>suite du message d’avant: augmentation des compétences numériques requises à la recherche d’emploi +++</p>
+<p>cadre d’emploi (milieu rural, urbain,etc) ,stratégies, moyens de communication efficaces, échanges de pratiques surtout [name=#76]</p>
+<p>J’aimerais surtout savoir comment est ce qu’ils perçoivent réellement les mesures prises en place pour le numérique. Suis-je le seul à penser qu’elles sont injustes ? Suis-je le seul à me faire du soucis pour les précaires demain ? Suis-je le seul à penser que la pédagogie n’est pas la bonne solution ? Suis-je le seul à penser que la pédagogie correspond à une prise en charge amoindrie de la part du public vers les plus fragiles ? Suis-je le seul à penser que la pédagogie est aussi un argument pour la suppression de poste ?<br>Je ne me reconnais pas dans les paradigmes exprimés par les collègues des autres lieux numériques et ne me sens pas du tout légitime pour m’exprimer devant eux. <small> #80</small></p>
+<p>je n’ose quelques fois m’informer de peur de constaté l’absence ou l’inexistence de pensée politique/écologique des lieux/gens et préfère souvent rester autonome d’esprit, le partage est aussi un vecteur d’influence à double sens, et j’espère trouver le courage. <small> #82</small></p>
+<p>leurs tutos <small> #83</small></p>
+<p>Le type d’ateliers mis en place</p>
+<ul>
+<li data-startline-back="1007" data-endline-back="1008">Les actions prisées des différents publics <small> #92</small></li>
+</ul>
+<p>Quels outils ils utilisent, s’ils connaissent des formations <small> #93</small><br>:::</p>
+<h3 id="Quelles-questions-ou-commentaires-pourriez-vous-faire-à-ces-questionnaires-" data-id="Quelles-questions-ou-commentaires-pourriez-vous-faire-à-ces-questionnaires-">Quelles questions ou commentaires pourriez-vous faire à ces questionnaires ?</h3>
+<details>
+<p>Utiles et nécessaires <small> #4</small></p>
+<p>les questionnaires sont complets et très orientés “spécialistes” de la médiation numérique alors que nombreux sont les médiateurs numériques qui ne se connaissent pas ou qui ne se reconnaissent pas car cette médiation ne représente qu’une partie de leurs missions (souvent nombreuses) <small> #32</small></p>
+<p>trop long a remplir <small> #35</small></p>
+<p>Bon courage pour les dépouiller :) <small> #47</small></p>
+<p>Je souhaite suivre les résultats de cet observatoire. L’abandon du réseau cyberbase a laissé les animateurs d’epn seuls. Même trouver une formation, aujourd’hui pertinente pour cette profession est compliquée (dans le cadre de la fonction publique). Depuis 2015, je recherche à m’intégrer dans une formation qui fasse le point sur la réglementation autour de la consultation d’internet dans un espace public et la gestion d’un epn, je ne trouve pas . Cette compétence me manque.</p>
+<p>Merci pour votre initiative ! <small> #76</small></p>
+<p>Pas de question sur l’EMI ! <small> #79</small></p>
+<p>Réponses trop fermées, mise en page étrange mais content de pouvoir m’exprimer explicitement sans limite de 300 caractères <small> #80</small></p>
+<p>il est mal tombé ;-) vu mon histoire ? <small> #82</small></p>
+<p>mon public prioritaire est désormais constitué de professionnels, certaines réponses ont été données par défaut <small> #83</small></p>
+</details></details></details>
+<h3 id="Production-de-matériel-pédagogique-amp-documentation" data-id="Production-de-matériel-pédagogique-amp-documentation"></h3>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>NEC Lens, ouverture de la billetterie</title>
+        <author>
+            <name>Actualités du Hub Connum</name>
+        </author>
+        <link href="https://metalpou.github.io/testsite/nec-lens-ouverture-de-la-billetterie/"/>
+        <id>https://metalpou.github.io/testsite/nec-lens-ouverture-de-la-billetterie/</id>
+        <media:content url="https://metalpou.github.io/testsite/media/posts/37/NECLens.png" medium="image" />
+            <category term="Médiation numérique"/>
+
+        <updated>2022-07-05T16:47:00+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://metalpou.github.io/testsite/media/posts/37/NECLens.png" alt="Image d&#x27;illustration avec une photo de football." />
+                    La billetterie est ouverte pour le prochain NEC national qui se déroulera du 28 au 29 septembre au stade Bollaert&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://metalpou.github.io/testsite/media/posts/37/NECLens.png" class="type:primaryImage" alt="Image d&#x27;illustration avec une photo de football." /></p>
+                <div class="elementor-element elementor-element-1008fdbb elementor-widget elementor-widget-theme-post-content" data-id="1008fdbb" data-element_type="widget" data-widget_type="theme-post-content.default">
+<div class="elementor-widget-container">
+<div class="elementor elementor-2008" data-elementor-type="wp-post" data-elementor-id="2008" data-elementor-post-type="post">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-7040322 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7040322" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-60dcfe7" data-id="60dcfe7" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-1bd4e5e elementor-widget elementor-widget-text-editor" data-id="1bd4e5e" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>La billetterie est ouverte pour le prochain NEC national qui se déroulera du 28 au 29 septembre au stade Bollaert de Lens.</p>
+<p>Le programme complet est en cours de finalisation, en attendant voici les grandes lignes directrices de cet évènement :</p>
+<ul>
+<li>Culture &amp; compétences numériques</li>
+<li>Territoires résilients &amp; durables</li>
+<li>Communs &amp; souveraineté</li>
+<li>Accessibilité(s) &amp; non recours</li>
+<li>Données &amp; territoire</li>
+<li>Inclusion &amp; participation</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-c5cb4ff elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c5cb4ff" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ed75ba1" data-id="ed75ba1" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-24ea4cf elementor-align-center elementor-widget elementor-widget-button" data-id="24ea4cf" data-element_type="widget" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper"><a class="elementor-button elementor-button-link elementor-size-sm" href="https://numerique-en-communs.fr/"> <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">Plus d'infos et billeterie &gt;</span> </span> </a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
             ]]>
         </content>
     </entry>
@@ -869,49 +1875,6 @@
 <p>Je comprends comment fonctionnent les Drive<br>je trouve les Drive autour de chez moi</p>
 <h3>Trouver des informations vérifiées</h3>
 <p>J’apprends à reconnaître les fausses informations<br>je choisis mon navigateur Internet.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Open Badge</title>
-        <author>
-            <name>Actualités du Hub Connum</name>
-        </author>
-        <link href="https://metalpou.github.io/testsite/open-badge/"/>
-        <id>https://metalpou.github.io/testsite/open-badge/</id>
-        <media:content url="https://metalpou.github.io/testsite/media/posts/31/Badge.png" medium="image" />
-            <category term="Ressources"/>
-            <category term="Médiation numérique"/>
-            <category term="Dans les territoires"/>
-            <category term="Communs"/>
-
-        <updated>2020-02-21T09:57:00+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://metalpou.github.io/testsite/media/posts/31/Badge.png" alt="Image d&#x27;un badge ouvert où sont listés les termes suivants : description, critères, émetteur, preuves, date d&#x27;émission, standards" />
-                    L'open badge est un dispositif numérique combinant une image et des métadonnées qui est utilisé pour confirmer l'acquisition d’aptitudes, de&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://metalpou.github.io/testsite/media/posts/31/Badge.png" class="type:primaryImage" alt="Image d&#x27;un badge ouvert où sont listés les termes suivants : description, critères, émetteur, preuves, date d&#x27;émission, standards" /></p>
-                <p>L'open badge est un dispositif numérique combinant une image et des métadonnées qui est utilisé pour confirmer l'acquisition d’aptitudes, de connaissances ou de compétences, dans le domaine de l'enseignement en ligne ou dans le cadre de parcours présentiels.</p>
-<p>En utilisant aujourd’hui les Open Badges, il est possible de rendre visibles les compétences, apprentissages, pratiques, projets ou aspirations. Rendre visible, dans le but d’échanger entre pairs sur des intérêts communs, des projets, mais aussi de saisir cette nouvelle opportunité d’apprentissage et construire ensemble une nouvelle culture, organisation de la reconnaissance sur le territoire ligérien.</p>
-<h2>Participant Clés du Numérique</h2>
-<p> Je surfe sans boire la tasse Participant Clés du Numérique </p>
-<p>Je communique par e-mail Participant Clés du Numérique </p>
-<p>Je me connecte et me déconnecte en conscience Participant Clés du Numérique </p>
-<p>Je prends en main l'équipement dont je dispose </p>
-<h2>De nombreux collectifs se sont emparés du sujet</h2>
-<h3>Badgeons les Pays de la Loire</h3>
-<p>Collectif ligérien agissant pour la reconnaissance et l'utilisation des open badges<br>Le collectif est né le 30 avril 2019 lors de la grande journée organisée à Nantes.<br><a href="https://blpdl.openrecognition.org/"><br>Plus d'infos </a><br><br></p>
-<h3>Badgeons la Normandie</h3>
-<p>Branche normande d’un mouvement global en faveur de l’accès pour tous à la reconnaissance des apprentissages<br>Ouvert à l’ensemble des individus, établissements, associations ou organisations des secteurs de l’éducation et de la formation, de l’insertion sociale et de l’emploi sur le territoire normand<br><a href="https://badgeonslanormandie.fr/"><br>Plus d'infos </a><br><br></p>
-<h3>Reconnaitre - Open Recognition Alliance</h3>
-<p>Accompagne et fédère les acteurs et projets de reconnaissance ouverte sur les territoires<br>Elle est représentée, au niveau régional, à travers les actions et initiatives des collectifs « Badgeons »<br><a href="https://reconnaitre.openrecognition.org/"><br>Plus d'infos </a></p>
-<p><em>Dans un monde en mouvement, l’individu doit sans cesse s’adapter à son environnement mais ce changement est aussi une affaire collective. Apprendre seul·e ou mettre en lumière ce que chacun·e sait faire n’est pas aisé. Dans ce contexte de transition, le numérique nous offrent de nouveaux usages, possibilités pour accéder et créer des ressources, pour partager ses apprentissages, ses expériences, ses besoins et agir en coopération.</em></p>
-<p><em><cite>Texte issu du site internet du collectif Badgeons les Pays de la Loire</cite></em></p>
-<p> </p>
             ]]>
         </content>
     </entry>
