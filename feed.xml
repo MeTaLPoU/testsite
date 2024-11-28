@@ -3,37 +3,35 @@
     <title>CONUMM_T1_Taste2</title>
     <link href="https://metalpou.github.io/testsite/feed.xml" rel="self" />
     <link href="https://metalpou.github.io/testsite" />
-    <updated>2024-11-03T21:38:05+01:00</updated>
+    <updated>2024-11-28T16:44:20+01:00</updated>
     <author>
         <name>Actualités du Hub Connum</name>
     </author>
     <id>https://metalpou.github.io/testsite</id>
 
     <entry>
-        <title>Formation Aciah à venir</title>
+        <title>Inscrivez-vous à l&#x27;assemblée générale du Hub !</title>
         <author>
             <name>Actualités du Hub Connum</name>
         </author>
         <link href="https://metalpou.github.io/testsite/formation-aciah-a-venir/"/>
         <id>https://metalpou.github.io/testsite/formation-aciah-a-venir/</id>
-        <media:content url="https://metalpou.github.io/testsite/media/posts/20/aciah.jpg" medium="image" />
-            <category term="Ressources"/>
-            <category term="Médiation numérique"/>
-            <category term="Dans les territoires"/>
+        <media:content url="https://metalpou.github.io/testsite/media/posts/20/AGhub2022.JPG" medium="image" />
+            <category term="Vie du Hub"/>
 
-        <updated>2024-09-02T16:11:00+02:00</updated>
+        <updated>2024-11-02T16:11:00+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://metalpou.github.io/testsite/media/posts/20/aciah.jpg" alt="" />
-                    contenu dates
+                        <img src="https://metalpou.github.io/testsite/media/posts/20/AGhub2022.JPG" alt="photo de l&#x27;AG 2022 où l&#x27;in voit une personne expliquer un diaporama devant des personnes assises derrière une table." />
+                    L'assemblé générale du Hub CONUMM est prévue le vendredi 24 janvier 2025 à 14h, dans les locaux de la Ligue&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://metalpou.github.io/testsite/media/posts/20/aciah.jpg" class="type:primaryImage" alt="" /></p>
-                <p>contenu</p>
-<p>dates</p>
-<p> </p>
+                    <p><img src="https://metalpou.github.io/testsite/media/posts/20/AGhub2022.JPG" class="type:primaryImage" alt="photo de l&#x27;AG 2022 où l&#x27;in voit une personne expliquer un diaporama devant des personnes assises derrière une table." /></p>
+                <p>L'assemblé générale du Hub CONUMM est prévue le vendredi 24 janvier 2025 à 14h, dans les locaux de la Ligue de l'Enseignement de la Mayenne - FAL 53, 26 bd Murat, 53000 Laval. </p>
+<p>Déroulé :<br>- 12h30-14h : déjeuner (places limitées, veuillez vus inscrire dans le formulaire)<br>- 14h-16h : Assemblée Générale<br>- 16h : Pot convivial</p>
+<p>Pour s'inscire, c'est <a href="https://framaforms.org/formulaire-dinscription-de-lassemblee-generale-du-hub-conumm-24-janvier-1730105656" target="_blank" rel="noopener noreferrer">par ici </a>(date limite 18 décembre 2024) !</p>
             ]]>
         </content>
     </entry>
@@ -1573,70 +1571,6 @@
         </content>
     </entry>
     <entry>
-        <title>NEC Lens, ouverture de la billetterie</title>
-        <author>
-            <name>Actualités du Hub Connum</name>
-        </author>
-        <link href="https://metalpou.github.io/testsite/nec-lens-ouverture-de-la-billetterie/"/>
-        <id>https://metalpou.github.io/testsite/nec-lens-ouverture-de-la-billetterie/</id>
-        <media:content url="https://metalpou.github.io/testsite/media/posts/37/NECLens.png" medium="image" />
-            <category term="Médiation numérique"/>
-
-        <updated>2022-07-05T16:47:00+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://metalpou.github.io/testsite/media/posts/37/NECLens.png" alt="Image d&#x27;illustration avec une photo de football." />
-                    La billetterie est ouverte pour le prochain NEC national qui se déroulera du 28 au 29 septembre au stade Bollaert&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://metalpou.github.io/testsite/media/posts/37/NECLens.png" class="type:primaryImage" alt="Image d&#x27;illustration avec une photo de football." /></p>
-                <div class="elementor-element elementor-element-1008fdbb elementor-widget elementor-widget-theme-post-content" data-id="1008fdbb" data-element_type="widget" data-widget_type="theme-post-content.default">
-<div class="elementor-widget-container">
-<div class="elementor elementor-2008" data-elementor-type="wp-post" data-elementor-id="2008" data-elementor-post-type="post">
-<section class="elementor-section elementor-top-section elementor-element elementor-element-7040322 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7040322" data-element_type="section">
-<div class="elementor-container elementor-column-gap-default">
-<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-60dcfe7" data-id="60dcfe7" data-element_type="column">
-<div class="elementor-widget-wrap elementor-element-populated">
-<div class="elementor-element elementor-element-1bd4e5e elementor-widget elementor-widget-text-editor" data-id="1bd4e5e" data-element_type="widget" data-widget_type="text-editor.default">
-<div class="elementor-widget-container">
-<p>La billetterie est ouverte pour le prochain NEC national qui se déroulera du 28 au 29 septembre au stade Bollaert de Lens.</p>
-<p>Le programme complet est en cours de finalisation, en attendant voici les grandes lignes directrices de cet évènement :</p>
-<ul>
-<li>Culture &amp; compétences numériques</li>
-<li>Territoires résilients &amp; durables</li>
-<li>Communs &amp; souveraineté</li>
-<li>Accessibilité(s) &amp; non recours</li>
-<li>Données &amp; territoire</li>
-<li>Inclusion &amp; participation</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section class="elementor-section elementor-top-section elementor-element elementor-element-c5cb4ff elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c5cb4ff" data-element_type="section">
-<div class="elementor-container elementor-column-gap-default">
-<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ed75ba1" data-id="ed75ba1" data-element_type="column">
-<div class="elementor-widget-wrap elementor-element-populated">
-<div class="elementor-element elementor-element-24ea4cf elementor-align-center elementor-widget elementor-widget-button" data-id="24ea4cf" data-element_type="widget" data-widget_type="button.default">
-<div class="elementor-widget-container">
-<div class="elementor-button-wrapper"><a class="elementor-button elementor-button-link elementor-size-sm" href="https://numerique-en-communs.fr/"> <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">Plus d'infos et billeterie &gt;</span> </span> </a></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-</div>
-</div>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>NEC Nantes</title>
         <author>
             <name>Actualités du Hub Connum</name>
@@ -2082,6 +2016,55 @@
 </div>
 </div>
 </div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Centre d’aide pour les démarches en ligne essentielles</title>
+        <author>
+            <name>Actualités du Hub Connum</name>
+        </author>
+        <link href="https://metalpou.github.io/testsite/centre-daide-pour-les-demarches-en-ligne-essentielles/"/>
+        <id>https://metalpou.github.io/testsite/centre-daide-pour-les-demarches-en-ligne-essentielles/</id>
+        <media:content url="https://metalpou.github.io/testsite/media/posts/32/solidarite-numerique-940x512-1.jpeg" medium="image" />
+            <category term="Ressources"/>
+            <category term="Médiation numérique"/>
+
+        <updated>2020-04-06T16:34:00+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://metalpou.github.io/testsite/media/posts/32/solidarite-numerique-940x512-1.jpeg" alt="Infogramphie promouvant le site solidarité Numérique avec le numéri 01 70 772 372" />
+                    Les acteurs de la médiation numérique se mobilisent pour accompagner les personnes éloignées du numérique pendant la crise du covid-19.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://metalpou.github.io/testsite/media/posts/32/solidarite-numerique-940x512-1.jpeg" class="type:primaryImage" alt="Infogramphie promouvant le site solidarité Numérique avec le numéri 01 70 772 372" /></p>
+                <p>Les acteurs de la médiation numérique se mobilisent pour accompagner les personnes éloignées du numérique pendant la crise du covid-19.</p>
+<p>La <a href="https://lamednum.coop">MedNum</a>, coopérative des acteurs de l’inclusion numérique,  a mis en place, avec l'appui de son réseau, un centre d'aide pour les démarches en lignes essentielles en  ce temps de confinement à destination des personnes en situation de fragilité numérique. Le but est de mettre en relation des médiateur.rice.s numériques - professionnels comme bénévoles -  et des personnes qui ont besoin d'être accompagné pour des démarches en lignes.</p>
+<p>Cela passe par la mise à disposition de ressources en ligne pour faciliter les démarches en ligne mais surtout par la mise en place d'un numéro vert pour se faire accompagner à distance par des acteurs inscrit sur cette plateforme .</p>
+<ul>
+<li>Voici l'adresse du site internet, pour se faire recenser comme médiateur bénévole et pour trouver des ressources en lignes, <a href="tel:0170772372">https://solidarite-numerique.fr/ </a></li>
+<li>Voici le numéro vert pour se faire accompagner dans ses démarches en ligne <a href="tel:0170772372">01 70 77 23 72</a> appel non surtaxé, du lundi au vendredi, de 9h à 18h</li>
+</ul>
+<h2> </h2>
+<h2>L'aide apportée par les médiateurs se concentre sur huit thématique :</h2>
+<h3>Faire des démarches pour ma famille et moi</h3>
+<p><strong>J’imprime</strong> l’attestation de déplacement si je dois sortir pendant le confinement<br><strong>Je vérifie</strong> si j’ai droit à des aides sociales</p>
+<h3>Faire des démarches liées à mon travail ou mon entreprise</h3>
+<p><strong>Je me renseigne</strong> sur le chômage partiel<br><br><strong>J’envoie</strong> une lettre recommandée</p>
+<h3>Voir un médecin</h3>
+<p>Je dois consulter un médecin à distance<br>J’ai besoin d’un arrêt maladie</p>
+<h3>Rester en contact avec mes proches</h3>
+<p>Je reçois et j’envoie des emails<br>j’apprends à envoyer des photos en pièce jointe</p>
+<h3>Travailler depuis chez moi</h3>
+<p>J’améliore mon réseau Internet<br>je collabore avec mes collègues à distance grâce à des outils</p>
+<h3>Faire l’école à la maison</h3>
+<p>Je me connecte à un ENT<br>Je trouve des vidéos pédagogiques</p>
+<h3>Faire mes courses sur internet</h3>
+<p>Je comprends comment fonctionnent les Drive<br>je trouve les Drive autour de chez moi</p>
+<h3>Trouver des informations vérifiées</h3>
+<p>J’apprends à reconnaître les fausses informations<br>je choisis mon navigateur Internet.</p>
             ]]>
         </content>
     </entry>
