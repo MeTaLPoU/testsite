@@ -2039,6 +2039,7 @@ textarea {
   color: var(--gray-2);
   font-size: 0.7901234568rem;
   padding: 1rem 0;
+  margin: 0 2rem 2rem;
 }
 .footer__social > a {
   display: inline-block;
